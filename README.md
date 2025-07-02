@@ -1,4 +1,4 @@
-# even_odd_checker
+# P2_even_odd_checker
 Beginner-friendly Python script to detect even or odd numbers.
 
 
